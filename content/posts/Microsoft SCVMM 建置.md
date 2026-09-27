@@ -2,6 +2,7 @@
 title: Microsoft SCVMM 建置
 toc: true
 date: 2026-09-20
+showTableOfContents: "true"
 ---
 ## 目錄
 ## 一、準備環境

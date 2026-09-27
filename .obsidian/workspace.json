@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about.md",
+                "file": "content/posts/Microsoft SCVMM 建置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "Microsoft SCVMM 建置"
             }
           }
         ]
@@ -187,6 +187,9 @@
   },
   "active": "535762095787d06e",
   "lastOpenFiles": [
+    "content/posts/WDS+MDT 企業大量自動部屬.md",
+    "content/posts/Microsoft SCVMM 建置.md",
+    "content/about.md",
     "public/images/ncp.png",
     "public/images/ncp_hu_4cec2cdc78896e9f.png",
     "resources/_gen/images/images/ncp_hu_4cec2cdc78896e9f.png",
@@ -197,15 +200,11 @@
     "assets/images/image.png",
     "public/images/ccna.png",
     "public/images/ccna_hu_63b7143d62e7c2e4.png",
-    "resources/_gen/images/images/ccna_hu_63b7143d62e7c2e4.png",
     "resources/_gen/images/images",
     "resources/_gen/images",
     "resources/_gen",
     "resources",
     "assets/images",
-    "content/posts/Microsoft SCVMM 建置.md",
-    "content/posts/WDS+MDT 企業大量自動部屬.md",
-    "content/about.md",
     "public/images/certifications",
     "public/images/未命名",
     "static/images/certifications",
