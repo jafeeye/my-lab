@@ -185,8 +185,9 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "535762095787d06e",
+  "active": "1e8b8ea3efb888f7",
   "lastOpenFiles": [
+    "新文字文件.txt",
     "public/posts/wds+mdt-企業大量自動部屬/index.html",
     "public/posts/wds+mdt-企業大量自動部屬",
     "未命名.base",
@@ -207,7 +208,6 @@
     "public/posts/page",
     "public/posts/index.xml",
     "public/posts/index.html",
-    "public/posts/chat",
-    "public/posts"
+    "public/posts/chat"
   ]
 }
