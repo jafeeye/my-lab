@@ -1,1 +1,7 @@
-{}
+{
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "static",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}

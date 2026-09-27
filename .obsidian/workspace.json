@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/WDS+MDT 企業大量自動部屬.md",
+                "file": "content/posts/Microsoft SCVMM 建置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WDS+MDT 企業大量自動部屬"
+              "title": "Microsoft SCVMM 建置"
             }
           }
         ]
@@ -185,13 +185,32 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "1e8b8ea3efb888f7",
+  "active": "535762095787d06e",
   "lastOpenFiles": [
-    "新文字文件.txt",
-    "public/posts/wds+mdt-企業大量自動部屬/index.html",
-    "public/posts/wds+mdt-企業大量自動部屬",
-    "未命名.base",
+    "public/Pasted image 20260927104618.png",
+    "static/Pasted image 20260927104618.png",
+    "public/Pasted image 20260927104613.png",
+    "static/Pasted image 20260927104613.png",
+    "public/Pasted image 20260927104605.png",
+    "static/Pasted image 20260927104605.png",
+    "static/images/Pasted-image-20260927102653.png",
+    "content/posts/Microsoft SCVMM 建置.md",
+    "static/Pasted image 20260927103921.png",
+    "static/Pasted image 20260927104317.png",
+    "public/scvmm-20260927104404.png",
+    "public/scvmm-20260927104405.png",
+    "layouts/_markup/render-image.html",
+    "layouts/_markup/新文字文件.txt",
+    "layouts/_markup",
+    "layouts/新增資料夾",
+    "public/images",
+    "static/images",
+    "static/新增資料夾",
     "content/posts/WDS+MDT 企業大量自動部屬.md",
+    "public/posts/microsoft-scvmm-建置/index.html",
+    "public/posts/microsoft-scvmm-建置",
+    "content/about.md",
+    "public/about/index.html",
     "themes/blowfish/exampleSite/content/examples/_index.zh-cn.md",
     "themes/blowfish/exampleSite/content/examples/_index.es.md",
     "themes/blowfish/exampleSite/content/examples/_index.de.md",
@@ -199,15 +218,6 @@
     "themes/blowfish/exampleSite/content/authors/nunocoracao/_index.fr.md",
     "themes/blowfish/exampleSite/content/authors/nunocoracao/_index.md",
     "themes/blowfish/exampleSite/archetypes/default.md",
-    "themes/blowfish/blowfish_logo.png",
-    "themes/blowfish/logo.png",
-    "themes/blowfish/README.md",
-    "public/posts/page/1/index.html",
-    "public/posts/page/1",
-    "public/posts/chat/index.html",
-    "public/posts/page",
-    "public/posts/index.xml",
-    "public/posts/index.html",
-    "public/posts/chat"
+    "themes/blowfish/README.md"
   ]
 }

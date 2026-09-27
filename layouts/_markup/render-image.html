@@ -1,0 +1,12 @@
+{{- $src := strings.TrimPrefix "/" .Destination -}}
+
+{{- if strings.HasPrefix $src "static/" -}}
+  {{- $src = strings.TrimPrefix "static/" $src -}}
+{{- end -}}
+
+<img
+  src="{{ $src | relURL | safeURL }}"
+  {{- with .PlainText }} alt="{{ . }}"{{ end -}}
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+  loading="lazy"
+>
