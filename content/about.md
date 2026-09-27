@@ -7,12 +7,47 @@ showWordCount: false
 showReadingTime: false
 ---
 
-你好，我是你的名字。
+你好，我是工程師 Kevin。
 
-這裡可以介紹：
+{{< gallery >}}
+
+{{< figure
+  src="images/az-900.png"
+  alt="Microsoft Azure Administrator Associate"
+  caption="Microsoft Azure AZ-900"
+  href="https://learn.microsoft.com/api/credentials/share/zh-tw/weweeww-5764/2DC0F87474AB7E6D?sharingId=632BB4DA66D896BE"
+  target="_blank"
+  nozoom=true
+  figureClass="grid-w50 md:grid-w20"
+>}}
+
+{{< figure
+  src="images/ccna.png"
+  alt="Microsoft Identity and Access Administrator"
+  caption="CISCO CCNA"
+  href="https://www.credly.com/badges/c1d0eb71-f213-405b-aca9-5542551c9352/public_url"
+  target="_blank"
+  nozoom=true
+  figureClass="grid-w50 md:grid-w20"
+>}}
+
+{{< figure
+  src="images/ncp.png"
+  alt="VMware Certified Professional"
+  caption="Nutanix NCP"
+  href="https://www.credly.com/badges/7d6ea5cf-c37b-42d1-9206-83620f2095f7/public_url"
+  target="_blank"
+  nozoom=true
+  figureClass="grid-w50 md:grid-w20"
+>}}
+
+{{< /gallery >}}
+
+
+
+
 
 - 我的背景
-- 我的興趣
-- 擅長的技能
-- 目前正在進行的專案
+- 擅長技能
+- 經歷專案
 - 聯絡方式
