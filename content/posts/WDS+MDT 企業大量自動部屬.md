@@ -3,6 +3,8 @@ title: WDS+MDT 企業大量自動部屬
 date: 2026-06-19
 showTableOfContents: "true"
 ---
+## 0、前置準備、環境拓譜
+![](static/images/Pasted%20image%2020260927112947.png)
 
 ## 一、設定AD主機
 
