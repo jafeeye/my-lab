@@ -10,7 +10,7 @@ showTableOfContents: "true"
 | 套件                                   | 說明                    |
 | ------------------------------------ | --------------------- |
 | SCVMM 2022 iso                       |                       |
-| MS SQL Developer 2022                |                       |
+| MS SQL Developer 2022                | 不能使用 Express 版        |
 | ADK 10.1.26100.2454 （2024 年 12 月）    | 勾選Deployment Tools 就好 |
 | ADK 10.1.26100.2454 的Windows PE 附加元件 |                       |
 

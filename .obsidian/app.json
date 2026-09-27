@@ -1,7 +1,7 @@
 {
   "useMarkdownLinks": true,
   "newLinkFormat": "absolute",
-  "attachmentFolderPath": "static",
+  "attachmentFolderPath": "static/images",
   "promptDelete": false,
   "alwaysUpdateLinks": true
 }

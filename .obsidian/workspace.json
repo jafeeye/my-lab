@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/WDS+MDT 企業大量自動部屬.md",
+                "file": "content/posts/CICD結合Terraform自動化部署.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WDS+MDT 企業大量自動部屬"
+              "title": "CICD結合Terraform自動化部署"
             }
           }
         ]
@@ -187,19 +187,24 @@
   },
   "active": "535762095787d06e",
   "lastOpenFiles": [
+    "static/Pasted image 20260927163310.png",
+    "static/Pasted image 20260927104618.png",
+    "static/Pasted image 20260927104613.png",
+    "static/Pasted image 20260927104605.png",
+    "content/posts/CICD結合Terraform自動化部署.md",
+    "public/images/Pasted image 20260927164045.png",
+    "static/images/Pasted image 20260927164045.png",
+    "public/images/Pasted image 20260927164042.png",
+    "static/images/Pasted image 20260927164042.png",
+    "public/images/Pasted image 20260927164014.png",
+    "static/images/Pasted image 20260927164014.png",
+    "public/images/Pasted image 20260927163948.png",
     "content/posts/Microsoft SCVMM 建置.md",
-    "static/images/Pasted image 20260927112947.png",
+    "public/posts/cicd結合terraform自動化部署/index.html",
+    "public/posts/cicd結合terraform自動化部署",
+    "content/posts/1.md",
     "content/posts/WDS+MDT 企業大量自動部屬.md",
     "content/about.md",
-    "public/images/ncp.png",
-    "public/images/ncp_hu_4cec2cdc78896e9f.png",
-    "resources/_gen/images/images/ncp_hu_4cec2cdc78896e9f.png",
-    "public/images/ncp_hu_760e9372047777d4.png",
-    "resources/_gen/images/images/ncp_hu_760e9372047777d4.png",
-    "assets/images/ncp.png",
-    "assets/images/ncwp.png",
-    "assets/images/image.png",
-    "public/images/ccna.png",
     "resources/_gen/images/images",
     "resources/_gen/images",
     "resources/_gen",
@@ -208,8 +213,6 @@
     "public/images/certifications",
     "public/images/未命名",
     "static/images/certifications",
-    "public/js/shortcodes/gallery.min.f88503f46dc911998a230a7f87c4a38c704f0bd55b27125cd5ba8eff4b8bad7eeaf885d6c7fbe51ef0313f1de62a071264a3e8b25ebe676fb4ba92f66234bc84.js",
-    "public/js/shortcodes",
     "themes/blowfish/exampleSite/content/examples/_index.zh-cn.md",
     "themes/blowfish/exampleSite/content/examples/_index.es.md",
     "themes/blowfish/exampleSite/content/examples/_index.de.md",
