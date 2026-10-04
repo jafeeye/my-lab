@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/CICD結合Terraform自動化部署.md",
+                "file": "content/about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CICD結合Terraform自動化部署"
+              "title": "about"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/chat.md",
+                "file": "content/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "chat 的反向連結"
+              "title": "反向連結"
             }
           },
           {
@@ -171,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,19 +186,19 @@
   },
   "active": "535762095787d06e",
   "lastOpenFiles": [
-    "static/Pasted image 20260927163310.png",
-    "static/Pasted image 20260927104618.png",
-    "static/Pasted image 20260927104613.png",
-    "static/Pasted image 20260927104605.png",
-    "content/posts/CICD結合Terraform自動化部署.md",
-    "public/images/Pasted image 20260927164045.png",
-    "static/images/Pasted image 20260927164045.png",
-    "public/images/Pasted image 20260927164042.png",
-    "static/images/Pasted image 20260927164042.png",
-    "public/images/Pasted image 20260927164014.png",
-    "static/images/Pasted image 20260927164014.png",
-    "public/images/Pasted image 20260927163948.png",
+    "assets/images/ga4.png",
+    "assets/images/badge_ociai.png",
+    "assets/images/badge_ocia.png",
+    "assets/images/badge_mol_cmlc.png",
+    "assets/images/badge_level2.png",
+    "assets/images/badge_level1.png",
+    "assets/images/badge_k12.png",
+    "assets/images/badge_GenerativeAI.png",
+    "assets/images/badge_gemini.png",
+    "assets/images/badge_ga4.png",
+    "assets/images/badge_canva.png",
     "content/posts/Microsoft SCVMM 建置.md",
+    "content/posts/CICD結合Terraform自動化部署.md",
     "public/posts/cicd結合terraform自動化部署/index.html",
     "public/posts/cicd結合terraform自動化部署",
     "content/posts/1.md",
