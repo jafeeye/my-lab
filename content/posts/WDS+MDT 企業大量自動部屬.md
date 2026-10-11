@@ -3,6 +3,7 @@ title: WDS+MDT 企業大量自動部屬
 date: 2026-06-19
 showTableOfContents: "true"
 ---
+> 2026.10.11 MDT工具要退休了，要部署需使用SCCM或 FOG Project
 ## 0、前置準備、環境拓譜
 ![](static/images/Pasted%20image%2020260927112947.png)
 
